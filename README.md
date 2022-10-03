@@ -28,7 +28,7 @@ This project is currently unmaintained because the original maintainers are busy
 ### Installation
 
 ```
-npm install --save react-date-range
+npm install --save react-date-range-zhangjianmin
 ```
 This plugin expects `react` and `date-fns` as peerDependencies, It means that you need to install them in your project folder.
 
@@ -41,8 +41,8 @@ npm install --save react date-fns
 You need to import skeleton and theme styles first.
 
 ```javascript
-import 'react-date-range/dist/styles.css'; // main style file
-import 'react-date-range/dist/theme/default.css'; // theme css file
+import 'react-date-range-zhangjianmin/dist/styles.css'; // main style file
+import 'react-date-range-zhangjianmin/dist/theme/default.css'; // theme css file
 ```
 
 ### `DatePicker`
