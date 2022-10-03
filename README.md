@@ -47,7 +47,7 @@ import 'react-date-range/dist/theme/default.css'; // theme css file
 
 ### `DatePicker`
 ```javascript
-import { Calendar } from 'react-date-range';
+import { Calendar } from 'react-date-range-zhangjianmin';
 
 class MyComponent extends Component {
   handleSelect(date){
